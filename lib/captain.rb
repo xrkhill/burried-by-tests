@@ -46,7 +46,7 @@ class Helm
     @console = console
   end
 
-  def foo(factor)
+  def engage(factor)
     console.engage_warp_drive(factor)
   end
 end
