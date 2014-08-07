@@ -113,5 +113,5 @@ https://speakerdeck.com/railsberry/zero-confidence-by-katrina-owen
 
 http://confreaks.com/videos/3760-railsberry2013-467-tests-0-failures-0-confidence
 
-https://www.youtube.com/watch?v=e7X01_j_oDA#t=2h06s
+https://www.youtube.com/watch?v=e7X01_j_oDA#t=2m06s
 
